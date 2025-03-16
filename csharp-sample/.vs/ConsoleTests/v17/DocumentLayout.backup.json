@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0425\u041A\u0424\u041A\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\Practical_test\\ConsoleTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563911A2-3792-4F54-B2DB-B79411F991A0}|ConsoleTests.csproj|d:\\\u0445\u043A\u0444\u043A\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\practical_test\\consoletests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563911A2-3792-4F54-B2DB-B79411F991A0}|ConsoleTests.csproj|solutionrelative:tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563911A2-3792-4F54-B2DB-B79411F991A0}|ConsoleTests.csproj|d:\\\u0445\u043A\u0444\u043A\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\practical_test\\consoletests\\guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563911A2-3792-4F54-B2DB-B79411F991A0}|ConsoleTests.csproj|solutionrelative:guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessNumber.cs",
+              "DocumentMoniker": "D:\\\u0425\u041A\u0424\u041A\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\Practical_test\\ConsoleTests\\GuessNumber.cs",
+              "RelativeDocumentMoniker": "GuessNumber.cs",
+              "ToolTip": "D:\\\u0425\u041A\u0424\u041A\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\Practical_test\\ConsoleTests\\GuessNumber.cs",
+              "RelativeToolTip": "GuessNumber.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:43:21.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "D:\\\u0425\u041A\u0424\u041A\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\Practical_test\\ConsoleTests\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests.cs",
+              "ToolTip": "D:\\\u0425\u041A\u0424\u041A\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0437 \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\Practical_test\\ConsoleTests\\Tests.cs",
+              "RelativeToolTip": "Tests.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:40:20.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
